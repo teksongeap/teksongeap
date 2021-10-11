@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teksongeap
+- 👋 Hi, I’m Tek
 - 👀 I’m interested in finding inter-dimensional portals
 - 🌱 I’m currently learning how to open inter-dimensional portals
 - 💞️ I’m looking to collaborate on opening inter-dimensional portals
