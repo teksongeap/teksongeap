@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tek
-- 👀 I’m interested in finding inter-dimensional portals
-- 🌱 I’m currently learning how to open inter-dimensional portals
-- 💞️ I’m looking to collaborate on opening inter-dimensional portals
+- 👀 I’m interested in finding interdimensional portals
+- 🌱 I’m currently learning how to open interdimensional portals
+- 💞️ I’m looking to collaborate on opening interdimensional portals
 - 📫 How to reach me ...
 
 <!---
