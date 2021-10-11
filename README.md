@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teksongeap
-- 👀 I’m interested in finding the Faraway Lands
-- 🌱 I’m currently learning Ruby
+- 👀 I’m interested in finding inter-dimensional portals
+- 🌱 I’m currently learning how to open inter-dimensional portals
 - 💞️ I’m looking to collaborate on opening inter-dimensional portals
 - 📫 How to reach me ...
 
