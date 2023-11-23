@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Tek
-- 👀 I’m interested in finding interdimensional portals
-- 🌱 I’m currently learning how to open interdimensional portals
-- 💞️ I’m looking to collaborate on opening interdimensional portals
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tek, welcome to my Github! Here, you will find all my side projects. Take a look around!
 
 <!---
 teksongeap/teksongeap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
