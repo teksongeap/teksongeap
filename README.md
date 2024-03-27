@@ -1,4 +1,4 @@
-👋 Hi, I’m Tek, welcome to my Github! Here, you will find all my side projects. Take a look around!
+👋 Hi, I’m Tek, welcome to my Github! Here are some projects I've made.
 
 <!---
 teksongeap/teksongeap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
